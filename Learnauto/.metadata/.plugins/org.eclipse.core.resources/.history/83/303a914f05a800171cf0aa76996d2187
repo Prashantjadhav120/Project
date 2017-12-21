@@ -1,0 +1,19 @@
+package durgaSoft;
+
+import javafx.scene.Parent;
+
+class Perent{
+	
+	Perent(){
+		System.out.println("Parent Constructor");
+	}
+}
+
+public class Super extends Parent {
+
+	public static void main(String[] args) {
+	
+
+	}
+
+}

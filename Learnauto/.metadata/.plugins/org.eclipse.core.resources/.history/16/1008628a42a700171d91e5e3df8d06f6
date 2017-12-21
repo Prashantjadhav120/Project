@@ -1,0 +1,24 @@
+package basicjava;
+
+
+
+public class ma{
+	public static void main(String[] args){
+		
+		stud s1=new stud(11,"mahesh");
+		s1.display();
+	}
+}
+class stud{
+	int id;
+	String name;
+	
+ stud(int id,String name){
+		this.id=id;
+		this.name=name;
+	}
+	
+	void display(){
+		System.out.println("Sname==="+name);
+	}
+	}

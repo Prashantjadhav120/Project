@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.apache.poi.xssf.usermodel.XSSFWorkbook"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="lib.ExcelDataConfig"/>
+<fullyQualifiedTypeName name="Assert"/>
+<fullyQualifiedTypeName name="org.testng.Assert"/>
+<fullyQualifiedTypeName name="org.testng.annotations.Test"/>
+<fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.firefox.FirefoxDriver"/>
+<fullyQualifiedTypeName name="pageObjects.Page_Open_Correct"/>
+<fullyQualifiedTypeName name="testCases.Home_Page"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
+<fullyQualifiedTypeName name="pageObjects.Fileupload"/>
+<fullyQualifiedTypeName name="pageObjects.Registration_Page"/>
+<fullyQualifiedTypeName name="pageObjects.Exceldata"/>
+<fullyQualifiedTypeName name="pageObjects.dslist_buttons"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.WebElement"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.support.ui.ExpectedConditions"/>
+<fullyQualifiedTypeName name="basicjava.Address"/>
+<fullyQualifiedTypeName name="basicjava.Heroin"/>
+<fullyQualifiedTypeName name="basicjava.Mark"/>
+<fullyQualifiedTypeName name="basicjava.Student"/>
+<fullyQualifiedTypeName name="javafx.scene.Parent"/>
+</qualifiedTypeNameHistroy>

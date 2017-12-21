@@ -1,0 +1,19 @@
+package basicjava;
+
+
+class Mark{
+	
+	int m1,m2,m3;
+	mark(int m1,int m2,m3){
+		this.m1=m1;
+	}
+	
+}
+public class Student {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,17 @@
+package basicjava;
+
+public class ma {
+
+	
+	{
+		System.out.println("Instance Block Login");
+	}
+	
+	
+	
+	public static void main(String[] args){
+		ma m=new ma();
+		//ma m1=new ma(1);
+	}
+	
+}

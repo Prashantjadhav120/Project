@@ -1,0 +1,25 @@
+package basicjava;
+class Address{
+	
+	String country,State;
+	int hno;
+	
+	Address(String country,String State,int hno){
+		
+		this.country=country;
+		this.State=State;
+		this.hno=hno;
+		
+		
+	}
+}
+
+public class ma{
+	public static void main(String[] args){
+		
+	
+
+	
+	}
+
+	}

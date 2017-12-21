@@ -1,0 +1,19 @@
+package basicjava;
+
+public class ma {
+
+	
+	{
+		System.out.println("Instance Block Login");
+	}
+	
+	int a=m1();
+	int m1(){ System.out.println("m1() meethod called by veriable");
+	return 100;
+			}
+	public static void main(String[] args){
+		ma m=new ma();
+		//ma m1=new ma(1);
+	}
+	
+}

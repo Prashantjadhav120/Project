@@ -1,0 +1,22 @@
+package basicjava;
+
+
+class Mark{
+	
+	int m1,m2,m3;
+	Mark(int m1,int m2,int m3){
+		this.m1=m1;
+		this.m2=m2;
+		this.m3=m3;
+
+	}
+	
+}
+public class Student {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

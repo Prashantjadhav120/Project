@@ -1,0 +1,15 @@
+package basicjava;
+
+public class ma {
+
+	
+	static{
+		System.out.println("Instance Block Login");
+	}
+	
+	
+	public static void main(String[] args){
+		
+	}
+	
+}

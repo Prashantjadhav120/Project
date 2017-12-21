@@ -1,0 +1,23 @@
+package durgaSoft;class Perent{
+	
+void m1(int a){
+		System.out.println("Parent m1()"+a);}
+}
+
+class Super extends Perent {
+
+	void m2(int a){System.out.println("child M1()"+a);}
+
+    void m3(){
+	m1(10);
+	System.out.println("child2()");
+	m2(100);
+}
+public static void main(String[] args) {
+	
+	
+		
+
+	}
+
+}

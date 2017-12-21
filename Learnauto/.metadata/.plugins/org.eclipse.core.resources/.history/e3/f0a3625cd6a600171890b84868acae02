@@ -1,0 +1,23 @@
+package basicjava;
+
+public class ma {
+
+	
+	{
+		System.out.println("Instance Block Login");
+	}
+	ma()
+	{
+		System.out.println("Comntructor logic");
+	}
+	ma(int a){
+		System.out.println("1 argu cont");
+	}
+	public static void main(String[] args){
+		ma m=new ma();
+		ma m1=new ma(1);
+	}
+	{
+		System.out.println("Instnce bolock 2");
+	}
+}

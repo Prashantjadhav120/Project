@@ -1,0 +1,11 @@
+package basicjava;
+
+public class ma {
+	 
+}
+class dog extends ma{
+	
+}
+class test{
+	String str="Mahesh";
+}

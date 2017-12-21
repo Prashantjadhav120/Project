@@ -1,0 +1,35 @@
+package basicjava;
+
+public class ma {
+	
+	int a=10,b=20;
+	
+	static int c=100,d=200;
+	
+	int m1(int a,int b){System.out.println(a--+"  "+b); return 10;}
+    
+	static String m2(boolean b)
+	{
+		System.out.println(b);
+		return "ratan";}
+	ma(int a){
+		System.out.println("1 argu cons");
+	}
+	ma(int a,int b){
+		System.out.println("2 argu con");
+	}
+	{System.out.println("Inst block1");}
+	{System.out.println("Inst block2");}
+	{System.out.println("static block1");}
+	{System.out.println("Static block2");}
+	
+	public static void main(String[] args){
+
+		ma m=new ma(10);
+		ma m1=new ma(100,200);
+		System.out.println(m.a);
+		
+		
+	}
+	
+}

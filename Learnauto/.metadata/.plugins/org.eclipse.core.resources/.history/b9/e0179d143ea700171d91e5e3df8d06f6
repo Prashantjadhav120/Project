@@ -1,0 +1,20 @@
+package basicjava;
+
+public class ma {
+	 
+}
+class dog extends ma{
+	
+}
+class Test2{
+	
+	public static void main(String[] args){
+	String str="Mahesh";
+	ma m=new ma();
+	dog d=new dog();
+	Object o=new Object();
+	System.out.println();
+	System.out.println(d);
+	
+}
+}	

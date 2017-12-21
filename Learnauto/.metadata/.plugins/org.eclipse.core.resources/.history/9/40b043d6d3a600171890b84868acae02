@@ -1,0 +1,27 @@
+package basicjava;
+
+public class ma {
+
+	
+	int sid;
+	String str;
+	int  mark;
+	
+	//Constructor Assign value to the instance variable
+	ma(m){
+		this.sid=sid;
+		this.str=str;
+		
+		}
+	
+	
+	
+	public static void main(String[] args)
+	{
+		
+		ma m=new ma(s);
+		System.out.println(m.sid+m.str);
+		ma m1=new ma(102,"Swap");
+		System.out.println(m1.sid+m1.str);
+	}
+}

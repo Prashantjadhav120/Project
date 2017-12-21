@@ -1,0 +1,14 @@
+package basicjava;
+
+public class ma {
+	 
+}
+class dog extends ma{
+	
+}
+class Test2{
+	String str="Mahesh";
+	ma m=new ma();
+	dog d=new dog();
+	Object o=new Object();
+}
